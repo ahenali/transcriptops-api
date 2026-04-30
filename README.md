@@ -21,7 +21,7 @@ Built for Make, n8n, Zapier, and direct CRM integrations.
 ## Local setup (5 minutes)
 
 ```bash
-git clone https://github.com/your-username/transcriptops-api
+git clone https://github.com/ahenali/transcriptops-api
 cd transcriptops-api
 
 python -m venv venv
